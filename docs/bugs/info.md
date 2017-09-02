@@ -23,3 +23,17 @@ Listen and take on feedback | Randomly tag staff
 Read the pins in #general | Think that you have no say
 
 Just generally, don't be a dick and you'll be golden.
+
+## Handy Links
+- [Dabbit's Report Generator (only works on computers)](https://dabbit.typeform.com/to/mnlaDU)
+- [Mouse's Mobile Report Generator](https://mouse91.github.io/bug-report)
+
+- [Desktop/Browser Bug Reports](https://trello.com/b/AExxR9lU/canary-bugs)
+- [Android Bug Reports](https://trello.com/b/Vqrkz3KO/android-beta-bugs)
+- [iOS Bug Reports](https://trello.com/b/vLPlnX60/ios-testflight-bugs)
+- [Linux Bug Reports](https://trello.com/b/UyU76Esh/linux-bugs)
+
+- [Windows Canary Download](https://discordapp.com/api/download/canary?platform=win)
+- [macOS Canary Download](https://discordapp.com/api/download/canary?platform=osx)
+- [Linus Canary Download](https://discordapp.com/api/download/canary?platform=linux)
+- [Testflight and Android Alpha Registration](https://dabbit.typeform.com/to/ycZl9m) - Android Alpha must register with Google Play email.
