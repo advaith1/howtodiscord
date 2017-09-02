@@ -12,8 +12,11 @@ Once you've submitted your bug in the relevant channel (make sure that it's in t
 ## Bug Hunters
 Bug Hunters are an elite group of community volunteers who tirelessly assist Discord Staff with managing bugs. We've got additional permissions that help us keep track of bugs, and generally, we can help if you have any issue with Discord or the reporting process. We're friendly people, so please don't be afraid to say hi :)
 
+## Canary Build
+Discord Canary is Discord's testing platform. As soon as changes are made, Canary users are most likely going to be the first people to know. Updates happen about twice a day, and contain bug fixes and more. Changes to Canary are logged at [DJScias/Discord-Datamining](https://github.com/DJScias/Discord-Datamining) based of the JavaScript hashes. This is the majorly preferred client for bug reporting, but we won't kill you if you report on Stable or Public Test Beta.
+
 ## Do's and Don'ts
-Lots of stuff happens in Disscord Testers, so here's a list of do's and don'ts:
+Lots of stuff happens in Discord Testers, so here's a list of do's and don'ts:
 
 Do | Don't
 ---------- | ----------
