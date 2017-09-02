@@ -1,12 +1,11 @@
 # DiscordApp
-:clipboard: Open-source documentation relating to DiscordApp/Hammer and Chisel.  
-All content in this repository is my content, however the individual servers belong to the respective administrators and/or organisations.
+Open-source documentation relating to DiscordApp/Hammer and Chisel.  
+All content in this repository is my content, however the individual servers belong to the respective administrators and/or organisation.
+
 
 ## Contacts
-Complaints/Questions about any official servers should be forwarded to [Discord Support](mailto:support@discordapp.com) or **Dabbit Prime#0001**.
-
-Complaints/Questions about the Partnership Program should be forwarded to the [Discord Partners Team](mailto:partners@discordapp.com) or **Mallory#0001**.
-
+Complaints/Questions about any official servers should be forwarded to [Discord Support](mailto:support@discordapp.com) or **Dabbit Prime#0896**.  
+Complaints/Questions about the Partnership Program should be forwarded to the [Discord Partners Team](mailto:partners@discordapp.com) or **Mallory#0001**.  
 Complains/Questions about the HypeSquad Program should be forwarded to the [Discord HypeSquad Team](mailto:hypesquad@discordapp.com) or **Mallory#0001**.
 
 
