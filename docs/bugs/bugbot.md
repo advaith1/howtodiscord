@@ -1,6 +1,6 @@
 # Bug Bot
 Bug Bot (Bug-Bot#1660) is the Official bot that powers the Discord Testers program. It links between the Guild/Server and Trello, powers reporting, approving and denying as well as attachments. Honestly, without Bug Bot, Discord wouldn't be half as good as it is now.  Not all commands are included here, as some are Administrator only commands.
-P.S. Bug Bot's open-source! Check him out @ SamEm/Bug-Bot!
+P.S. Bug Bot's open-source! Check him out @ https://github.com/SamEm/Bug-Bot!
 
 ## Using him - Users
 Command | Description
