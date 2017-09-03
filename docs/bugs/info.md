@@ -1,5 +1,5 @@
 # Reporting Discord Bugs
-As with all software, Discord can sometimes have some :bugs: in it. Sometimes you may feel the urge to scream at someone about such :bugs:. Thankfully, we've got a solution that won't render you unable to speak for 3 days!  
+As with all software, Discord can sometimes have some :bug:-s in it. Sometimes you may feel the urge to scream at someone about such :bug:-s. Thankfully, we've got a solution that won't render you unable to speak for 3 days!  
 Introducing: **Discord Testers** - The next in high-quality bug reporting.
 
 ## How it works
