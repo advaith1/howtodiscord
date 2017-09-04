@@ -15,6 +15,9 @@ Bug Hunters are an elite group of community volunteers who tirelessly assist Dis
 ## Canary Build
 Discord Canary is Discord's testing platform. As soon as changes are made, Canary users are most likely going to be the first people to know. Updates happen about twice a day, and contain bug fixes and more. Changes to Canary are logged at [DJScias/Discord-Datamining](https://github.com/DJScias/Discord-Datamining) based of the JavaScript hashes. This is the majorly preferred client for bug reporting, but we won't kill you if you report on Stable or Public Test Beta.
 
+## Development Build
+Discord Development is a platform for developers, it is the same as canary but with no backend. This build is useless to anyone who doesnt know how to run discord's backend. This is not meant to be used and therefore shouldnt be spoken of.
+
 ## Do's and Don'ts
 Lots of stuff happens in Discord Testers, so here's a list of do's and don'ts:
 
