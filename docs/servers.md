@@ -1,6 +1,7 @@
 # Discord Invite Links
-## A public list of all known, public, official Discord Guilds/Servers with invite links.
-These Servers/Guilds are in no particular order.  
+Complaints/Questions about any official servers should be forwarded to [Discord Support](mailto:support@discordapp.com) or **Dabbit Prime#0896**.
+
+## A public list of all public official Discord Guilds/Servers
 Not all Official Servers/Guilds are included in this list - HypeSquad, Partners and Discord Staff are examples. You need to be in the relevant programs/positions for invites to these servers.
 
 Server/Guild Name | Invite URL
@@ -14,7 +15,7 @@ Discord Linux | https://discord.gg/discord-linux
 
 ### Notable Servers
 Several staff have opened their own servers, and the community hosts a range of other servers.  
-A lot of these Servers/Guilds aren't advertised publicly, so I may be missing quite a few servers. Please [open an issue](https://github.com/ItsPugle/DiscordApp/issues/new) if you've got other servers that the owner has approved to being public.
+A lot of these Servers/Guilds aren't advertised publicly, so I may be missing quite a few servers. Please [open an issue](https://github.com/ItsPugle/DiscordApp/issues/new) if you've got other servers that the owner has approved to being public (make sure to mention @ItsPugle).
 
 Server/Guild Name | Invite URL
 ------------ | -------------
