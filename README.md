@@ -2,6 +2,7 @@
 Open-source documentation relating to DiscordApp/Hammer and Chisel.  
 All content in this repository is my content, however the individual servers belong to the respective administrators and/or organisation.
 
+:warning: We're looking for Community feedback on changes here! Please vote and give your opinion on [this](https://github.com/ItsPugle/DiscordApp/issues/3) poll! :warning:
 
 ## Contacts
 Complaints/Questions about any official servers should be forwarded to [Discord Support](mailto:support@discordapp.com) or **Dabbit Prime#0896**.
