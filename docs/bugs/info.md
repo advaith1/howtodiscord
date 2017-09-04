@@ -3,7 +3,7 @@ As with all software, Discord can sometimes have some :bug:-s in it. Sometimes y
 Introducing: **Discord Testers** - The next in high-quality bug reporting.
 
 ## How it works
-When you join Discord Testers (discord.gg/discord-testers), you'll find yourself in the #faqs channel. Now, before you go any further... **please read this goodness**. As a Bug Hunter, you spend 80% of your time answering questions that are covered in #faqs because people don't read. Not only will you save yourself time, but you'll reassure the remaining sanity of our Bug Hunters.
+When you join [Discord Testers](https://discord.gg/discord-testers), you'll find yourself in the #faqs channel. Now, before you go any further... **please read this goodness**. As a Bug Hunter, you spend 80% of your time answering questions that are covered in #faqs because people don't read. Not only will you save yourself time, but you'll reassure the remaining sanity of our Bug Hunters.
 
 Once you've read #faqs, you'll want to read #bot-help. Or, skim through it if you're in a rush. Dabbit Prime created a really good tool for reporting bugs without having to remember the syntax. Check it out [here](https://dabbit.typeform.com/to/mnlaDU).
 
