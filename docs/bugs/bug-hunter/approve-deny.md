@@ -39,7 +39,7 @@ If you are not on the same platform, you can still deny for NAB, INT, DUP or ELC
 If a report has already been *approved* and a report highlighting the same issue is made, you can deny the report. Every deny message for duplicate must have a link, or code, for the trello included.  
 `!deny 0001 | Duplicate Ticket of https://trello.com/abcd1234. Please check the Trello boards before reporting.`
 
-### Cannot Reproduce
+### Cannot Reproduce (CNR)
 If you cannot reproduce the bug, and you're on the same platform (ignore device and operating system unless marked as specific or in a specific operating system flow), you can deny the report.  
 `!deny 0001 | Cannot Reproduce - MacBook Air 2013 13" [10.12.6 Sierra], Discord Canary [0.0.154]`  
 
