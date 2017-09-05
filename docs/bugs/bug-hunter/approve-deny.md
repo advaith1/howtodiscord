@@ -5,7 +5,7 @@ As a Bug Hunter:tm: you have the ~~holy~~ respectful ability to approve and deny
 When approving or denying a bug, it's good etiquette to:
 - Avoid using shorthands if possible
 - Include all relevant system and client information
-- Don't use dynamic terms, like "latest build" or "newest mac". Be as **specific** as you can be!
+- Don't use dynamic terms, like "latest build" or "newest mac". Be as **specific** as can be!
 - Be respectful
 - With duplicate reports, include links to the Trello ticket
 
@@ -26,8 +26,10 @@ If a report has already been *approved* and a report highlighting the same issue
 `!deny 0001 | Duplicate Ticket of https://trello.com/abcd1234. Please check the Trello boards before reporting.`
 
 ### Cannot Reproduce
-If you cannot reproduce the bug, and you're on the same platform (ignore device and operating system unless marked as specific or in a specific operating system flow. And take note of the build number as it may be outdated, just be safe and check it on the latest build as the developers might've already fixed it, if the user isn't on the latest build, make sure to let them know that they should update), you can deny the report.  
-`!deny 0001 | Cannot Reproduce - MacBook Air 2013 13" [10.12.6 Sierra], Discord Canary [0.0.154]`
+If you cannot reproduce the bug, and you're on the same platform (ignore device and operating system unless marked as specific or in a specific operating system flow), you can deny the report.  
+`!deny 0001 | Cannot Reproduce - MacBook Air 2013 13" [10.12.6 Sierra], Discord Canary [0.0.154]`  
+
+If they are more then two builds out from the current build, or one major build away, make sure to get them to update their client and see if they can still reproduce the bug. It may have been patched in a recent update.
 
 ### Not a Bug
 Not to be confused with intended behaviour, not a bug means that the report... well.. isn't a bug... At least one of the three deny messages should contain a short explanation as to why it's not a bug.  
