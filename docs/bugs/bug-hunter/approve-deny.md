@@ -47,7 +47,7 @@ If they are more then two builds out from the current build, or one major build 
 
 
 ### Not a Bug (NAB)
-Not to be confused with intended behaviour, not a bug means that the report... well.. isn't a bug... At least one of the three deny messages should contain a short explanation as to why it's not a bug. Most, if not all, NAB reports are either intended or are feature requests, in which case the user should be sent to Discord Feedback [https://discord.gg/discord-feedback](https://discord.gg/discord-feedback).
+Not to be confused with intended behaviour, not a bug means that the report... well.. isn't a bug... At least one of the three deny messages should contain a short explanation as to why it's not a bug. Most, if not all, NAB reports are either intended or are feature requests, in which case the user should be sent to Discord Feedback [https://discord.gg/discord-feedback](https://discord.gg/discord-feedback).  
 `!deny 0001 | Not a bug`
 
 ### Intended Behaviour
