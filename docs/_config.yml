@@ -1,4 +1,8 @@
 theme: jekyll-theme-slate
-
+plugins:
+  - jemoji
+  - jekyll-mentions
+  - github-pages-heath-check
+  - jekyll-readme-index
 title: How to Discord
 show-downloads: false
