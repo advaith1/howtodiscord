@@ -3,6 +3,7 @@ Bug Bot (Bug-Bot#1660) is the Official bot that powers the Discord Testers progr
 P.S. Bug Bot's open-source! Check her out @ [SamEm/Bug-Bot](https://github.com/SamEm/Bug-Bot)!
 
 ## Using her - Users
+
 Command | Description
 --- | ----
 !submit | Submit a bug for Bug Hunter review - [Dabbit's Report Generator](https://dabbit.typeform.com/to/mnlaDU). Post in the respective channel.
@@ -11,6 +12,7 @@ Command | Description
 !canRepro and !cannotRepro | Indicate your reproduction status on an approved ticket
 
 ## Using her - Bug Hunters
+
 Command | Description
 --- | ----
 !approve | Approve a ticket in the Bug Approval Queue
