@@ -3,6 +3,6 @@
 
 ## Topics
 [Bugs](/bugs)  
-[Discord invite links](/servers)
+[Discord invite links](/servers)  
 [HypeSquad (WIP)](/hypesquad)  
 [Partners (WIP)](/partners)
