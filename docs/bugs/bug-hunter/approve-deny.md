@@ -1,7 +1,7 @@
 # Approving and denying tickets
-As a Bug Hunter:tm: you have the ~~holy~~ respectful ability to approve and deny incoming reports in #Bug-Approval-Queue. All bugs **must** come through here, meaning that if you approve or deny a bug wrongly, there's no way to fix it once it's passed.
+As a Bug Hunter™ you have the ~~holy~~ respectful ability to approve and deny incoming reports in #Bug-Approval-Queue. All bugs **must** come through here, meaning that if you approve or deny a bug wrongly, there's no way to fix it once it's passed.
 
-:warning: If you have any questions, or unsure, it's best to **not** approve or deny a bug, and let it be until you decide. If you honestly can't decide, you may want to consult with a Trello Moderator or other Bug Hunters. :warning:
+⚠️ If you have any questions, or unsure, it's best to **not** approve or deny a bug, and let it be until you decide. If you honestly can't decide, you may want to consult with a Trello Moderator or other Bug Hunters. ⚠️
 
 ## Approve/Deny Formatting
 When approving or denying a bug, it's good etiquette to:
