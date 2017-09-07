@@ -11,7 +11,6 @@ Discord Feedback | [https://discord.gg/discord-feedback](https://discord.gg/disc
 Discord Developers | [https://discord.gg/discord-developers](https://discord.gg/discord-developers)
 Discord Events | [https://discord.gg/events](https://discord.gg/events)
 Discord Gamenight | [https://discord.gg/gamenight](https://discord.gg/gamenight)
-Discord Linux [unofficial] | [https://discord.gg/discord-linux](https://discord.gg/discord-linux)
 
 ### Notable Servers
 Several staff have opened their own servers, and the community hosts a range of other servers.  
@@ -19,7 +18,9 @@ A lot of these Servers/Guilds aren't advertised publicly, so I may be missing qu
 
 Server/Guild Name | Invite URL
 ------------ | -------------
-Jake | https://discord.gg/jake
-B1nzy | https://discord.gg/b1nzy
-Rowboat (Bot by B1nzy) | https://discord.gg/rowboat
-Discord API | https://discord.gg/discord-api
+Jake | [https://discord.gg/jake](https://discord.gg/jake)
+b1nzy | [https://discord.gg/b1nzy](https://discord.gg/b1nzy)
+Rowboat (Bot by b1nzy) | [https://discord.gg/rowboat](https://discord.gg/rowboat)
+Discord API | [https://discord.gg/discord-api](https://discord.gg/discord-api)
+Discord Linux | [https://discord.gg/discord-linux](https://discord.gg/discord-linux)
+Discord Bots | [https://discord.gg/0cDvIgU2voWn4BaD](https://discord.gg/0cDvIgU2voWn4BaD)
