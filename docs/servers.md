@@ -6,12 +6,12 @@ Not all Official Servers/Guilds are included in this list - HypeSquad, Partners 
 
 Server/Guild Name | Invite URL
 ------------ | -------------
-Discord Testers | https://discord.gg/discord-testers
-Discord Feedback | https://discord.gg/discord-feedback
-Discord Developers | https://discord.gg/discord-developers
-Discord Events | https://discord.gg/events
-Discord Gamenight | https://discord.gg/gamenight
-Discord Linux | https://discord.gg/discord-linux
+Discord Testers | [https://discord.gg/discord-testers](https://discord.gg/discord-testers)
+Discord Feedback | [https://discord.gg/discord-feedback](https://discord.gg/discord-feedback)
+Discord Developers | [https://discord.gg/discord-developers](https://discord.gg/discord-developers)
+Discord Events | [https://discord.gg/events](https://discord.gg/events)
+Discord Gamenight | [https://discord.gg/gamenight](https://discord.gg/gamenight)
+Discord Linux [unofficial] | [https://discord.gg/discord-linux](https://discord.gg/discord-linux)
 
 ### Notable Servers
 Several staff have opened their own servers, and the community hosts a range of other servers.  
