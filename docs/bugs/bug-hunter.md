@@ -1,3 +1,3 @@
 # Bug Hunter Docs
-[Approving and Denying bugs](bugs/bug-hunter/approve-deny)  
-[Bug Hunter Commands](bugs/bug-hunter/commands)
+[Approving and Denying bugs](bug-hunter/approve-deny)  
+[Bug Hunter Commands](bug-hunter/commands)
