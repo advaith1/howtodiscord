@@ -11,13 +11,13 @@ When approving or denying a bug, it's good etiquette to:
 - Be respectful
 - With duplicate reports, include links to the Trello ticket
 
-A common misconception is that you can deny a bug report for a bug in #Denied-Bugs. **This is completely incorrect.** There are no circumstances where bugs can be denied for being related to or a duplicate of a denied bug.  
+A common misconception is that you can deny a bug report for a bug in #Denied-Bugs. **This is completely incorrect.** There are no circumstances where bugs can be denied for being related to or a duplicate of a denied bug. However, you might be able to deny a bug for the same reason the bug was denied earlier.
 ![Dabbit no deny deny](https://itspugle.is-a-bad-waifu.com/ed8718.png)
 
 ### Approving Bug Reports
 Even when approving, it's a good habit to learn to include a simple note like "can reproduce". Here is an example of some good approve and deny reasons:
 
-`!deny 0001 | Cannot Reproduce - MacBook Air 2013 13" [10.12.6 Sierra], Discord Canary [0.0.154]` 
+`!deny 0001 | Cannot Reproduce - MacBook Air 2013 13" [10.12.6 Sierra], Discord Canary [0.0.154]`  
 `!approve 0002 | Can Reproduce - Lenovo ThinkPad [Windows 10 Creators], Discord Canary [0.0.163]`
 
 
@@ -30,9 +30,9 @@ Linux | macOS, Windows, Linux and Web-App
 Android | Android
 iOS | iOS
 
-If a bug can be reproduced on more then one category (e.g. Can be reproduced on Android and iOS), the bug should be denied then resumbited in #general-bug-reports.
+If a bug can be reproduced on more then one category (e.g. Can be reproduced on Android and iOS), the bug should be denied then resubmited in #general-bug-reports.
 
-If you are not on the same platform, you can still deny for NAB, INT, DUP or ELC. Only CNR must conform to the above table.
+If you are not on the same platform, you can still deny for NAB, intended, dupe, or Electron bug. Only CNR must conform to the above table.
 
 ## Valid deny reasons
 ### Duplicates (Dupe)
@@ -47,7 +47,7 @@ If they are more then two builds out from the current build, or one major build 
 
 
 ### Not a Bug (NAB)
-Not to be confused with intended behaviour, not a bug means that the report... well.. isn't a bug... At least one of the three deny messages should contain a short explanation as to why it's not a bug. Most, if not all, NAB reports are either intended or are feature requests, in which case the user should be sent to [Discord Feedback (https://discord.gg/discord-feedback](https://discord.gg/discord-feedback).
+Not to be confused with intended behaviour, not a bug means that the report... well.. isn't a bug... At least one of the three deny messages should contain a short explanation as to why it's not a bug. Most, if not all, NAB reports are either intended or are feature requests, in which case the user should be sent to Discord Feedback [https://discord.gg/discord-feedback](https://discord.gg/discord-feedback).
 `!deny 0001 | Not a bug`
 
 ### Intended Behaviour
