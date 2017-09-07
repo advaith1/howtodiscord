@@ -4,14 +4,14 @@ Although Discord is developed for everyone, it's not possible to support every e
 ## Unsupported Enviroments
 - Any client modifications (BeautifulDiscord, betterDiscord, etc.)
 - Safari, Internet Explorer, or Edge browsers
-- Canary or Public Test Beta (PTB) web client
+- Canary web client or Public Test Beta (PTB) web client
 - Any pre-Windows 7 versions
 - Mobile Website
 - Any iPhone 4s' and below
 - Android 4.1 and below
 - Any bug involving text going out of modals because of a long translation
 - Using multiple instances of Discord concurrently
-- Any bug involving resizing the window to an unorthodox ration (eg. anything besides 4:3 or 16:9)
+- Any bug involving resizing the window to a size smaller than is normally allowed
 - Any bug that occurs only on virtual machines (if they can be reproduced on actual hardware, it's valid)
 - Amazon Fire Tablets
 - macOS versions lower than 10.10
