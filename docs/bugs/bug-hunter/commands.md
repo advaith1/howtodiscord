@@ -1,5 +1,5 @@
 # Bug Hunter Commands
-As a Bug Hunter:tm: you are awarded an elevated permissions level, which grants you access to several Bug Hunter only commands.  Whilst these commands aren't going to end the world if you misuse them, it's important to double-check your command before you press enter.
+As a Bug Hunter™ you are awarded an elevated permissions level, which grants you access to several Bug Hunter only commands.  Whilst these commands aren't going to end the world if you misuse them, it's important to double-check your command before you press enter.
 
 ## Ticket Management
 ### Approve
