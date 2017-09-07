@@ -16,10 +16,10 @@ A common misconception is that you can deny a bug report for a bug in #Denied-Bu
 
 ### Approving Bug Reports
 Even when approving, it's a good habit to learn to include a simple note like "can reproduce". Here is an example of some good approve and deny reasons:
-```
-!deny 0001 | Cannot Reproduce - MacBook Air 2013 13" [10.12.6 Sierra], Discord Canary [0.0.154]   
-!approve 0002 | Can Reproduce - Lenovo ThinkPad [Windows 10 Creators], Discord Canary [0.0.163]
-```
+
+`!deny 0001 | Cannot Reproduce - MacBook Air 2013 13" [10.12.6 Sierra], Discord Canary [0.0.154]` 
+`!approve 0002 | Can Reproduce - Lenovo ThinkPad [Windows 10 Creators], Discord Canary [0.0.163]`
+
 
 Here's the deny/approval system for bug reports:
 
@@ -35,7 +35,7 @@ If a bug can be reproduced on more then one category (e.g. Can be reproduced on 
 If you are not on the same platform, you can still deny for NAB, INT, DUP or ELC. Only CNR must conform to the above table.
 
 ## Valid deny reasons
-### Duplicates (DUP)
+### Duplicates (Dupe)
 If a report has already been *approved* and a report highlighting the same issue is made, you can deny the report. Every deny message for duplicate must have a link, or code, for the trello included.  
 `!deny 0001 | Duplicate Ticket of https://trello.com/abcd1234. Please check the Trello boards before reporting.`
 
@@ -47,13 +47,13 @@ If they are more then two builds out from the current build, or one major build 
 
 
 ### Not a Bug (NAB)
-Not to be confused with intended behaviour, not a bug means that the report... well.. isn't a bug... At least one of the three deny messages should contain a short explanation as to why it's not a bug.  
+Not to be confused with intended behaviour, not a bug means that the report... well.. isn't a bug... At least one of the three deny messages should contain a short explanation as to why it's not a bug. Most, if not all, NAB reports are either intended or are feature requests, in which case the user should be sent to [Discord Feedback (https://discord.gg/discord-feedback](https://discord.gg/discord-feedback).
 `!deny 0001 | Not a bug`
 
-### Intended Behaviour (INT)
-If the report is actually designed, intended or meant-to-be, the report can be denied a intended behaviour. At least one of the three deny messages should contain a little reason over why it's intended.   
+### Intended Behaviour
+If the report is actually designed, intended or meant-to-be, the report can be denied a intended behaviour. At least one of the three deny messages should contain a little reason over why it's intended. Even though intended ≠ NAB, if a report is intended it's NAB. However, some NAB reports may not be intended.  
 `!deny 0001 | Intended behaviour`
 
-### Electron Bug (ELC)
-Discord runs off Electron, which means that it inherits any Electron bugs. If Electron bugs are reported, deny it as so.  
+### Electron Bug
+Discord runs off Electron, which means that it inherits any Electron bugs. If Electron bugs are reported, deny it as so. [Electron bugs list](https://github.com/electron/electron/issues)   
 `!deny 0001 | Electron Bug - <<link to GitHub Electron Issue>>`
