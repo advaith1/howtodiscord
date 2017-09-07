@@ -2,4 +2,4 @@
 [Approving and Denying bugs](bug-hunter/approve-deny)  
 [Bug Hunter Commands](bug-hunter/commands)
 
-[< All Bug Docs](/bugs)
+[< All Bug Docs](/DiscordApp/bugs)
