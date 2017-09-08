@@ -1,8 +1,9 @@
 # Bug Hunter Documents
-For easy navigation amongst documents.
+Navigation page for Bug Hunter specific documentation.
 
-[Approving and Denying bugs](bug-hunter/approve-deny)  
-[Bug Hunter Commands](bug-hunter/commands)  
-[Unsupported Build](unsupported)
+[Approval and Denial Guide](bug-hunter/approve-deny)  
+[Bug Hunter Specific Commands](bug-hunter/commands)  
+[Unsupported Enviromens](unsupported)
 
-[< All Bug Docs](/DiscordApp/bugs)
+[< Return to the bug documents navigation](/DiscordApp/bugs)
+[< Return to the home page](/DiscordApp/index)

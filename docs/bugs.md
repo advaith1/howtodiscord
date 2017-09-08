@@ -1,6 +1,9 @@
-# Bugs
+# Bug Documents
+Navigation page for bug-related documentation.
 
-[📂 Bug Hunter Docs](bugs/bug-hunter)  
-[Bug-Bot Docs](bugs/bugbot)  
-[Bug Reporting Docs](bugs/reporting)  
-[Unsupported Environments](bugs/unsupported)  
+[Bug Hunter Specific Documents](bugs/bug-hunter)  
+[Bug-Bot Instructions](bugs/bugbot)  
+[Bug Reporting Instructions](bugs/reporting)  
+[Unsupported Enviroments](bugs/unsupported)  
+
+[< Return to the home page](/DiscordApp/index)
