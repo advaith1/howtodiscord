@@ -1,4 +1,4 @@
-theme: jekyll-theme-cayman
+theme: jekyll-theme-architect
 plugins:
   - jemoji
   - jekyll-mentions
