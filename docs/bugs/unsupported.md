@@ -4,7 +4,6 @@ Although Discord is developed for everyone, it's not possible to support every e
 ## Unsupported Enviroments
 - Any client modifications (BeautifulDiscord, betterDiscord, etc.)
 - Safari, Internet Explorer, or Edge browsers
-- Public Test Beta (PTB) web client
 - Any pre-Windows 7 versions
 - Mobile Website
 - Any iPhone 4s' and below
