@@ -6,8 +6,8 @@ Note that the Web versions don't have a version number, they just have a build n
 #### Windows
 For Windows, to find the version of Discord, go to `%appdata%/discord<version>`.
 
-For the Public Test Build, go to `%appdata%/discordptb` or `~/Library/Application Support/discordptb`
-For Canary, go to `%appdata%/discordcanary` or `~/Library/Application Support/discordcanary`
+For the Public Test Build, go to `%appdata%/discordptb` or `~/Library/Application Support/discordptb`  
+For Canary, go to `%appdata%/discordcanary` or `~/Library/Application Support/discordcanary`  
 For Stable, go to `%appdata%/discord` or `~/Library/Application Support/discord`
 
 #### macOS
@@ -18,15 +18,15 @@ For macOS, just click `Discord` at the top bar, then click `About Discord`.
 #### Linux
 For Linux, just open a terminal while Discord is running, and type the package name.
 
-For Stable, `discord`
-For PTB, `discord-ptb`⚠️
+For Stable, `discord`  
+For PTB, `discord-ptb`  
 For Canary, `discord-canary`
 
 ### Build
-To find the Build of discord, follow these steps:
+To find the Build of discord, follow these steps:  
 (Note that as of now, this only works on Canary.)
 1. Press `Ctrl+Shift+I` (`Command+Shift+I` on macOS)
-2. click Console
+2. Click Console
 3. Scroll up to the top.
 4. The third message should say:
 ![Console Build Info](https://cdn.discordapp.com/attachments/252296452708106240/356153419561435147/Screen_Shot_2017-09-09_at_12.06.19_PM.png)
