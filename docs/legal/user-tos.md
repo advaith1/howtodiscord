@@ -1,7 +1,7 @@
 # User TOS
 [https://discordapp.com/terms](https://discordapp.com/terms)
 
-You find someone breaking the TOS You can send a email to abuse@discordapp.com 
+You find someone breaking the TOS You can send a email to [abuse@discordapp.com](mailto://abuse@discordapp.com)
 
 ### With the following:
 
