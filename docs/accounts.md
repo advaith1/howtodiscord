@@ -17,5 +17,9 @@ After you go to that screen, click on the register button, that's a little bit h
 After that, fill in the required information, and then BOOM! Your discord account is ready to go! Go on and chat with friends
 without limits! There you go!
 
-
+# Deleting your account
+First, let get one thing very clear, you **can't** delete your account it what way,
+It caused troubles and mix-ups, but you can't delete your account, if you want to "delete" your
+account, change your personal informatiom like your email/nickname and don't log in for a week,
+this will make your account inactive what counts like deleting it, when you log-in once again, it gets active again.
 
