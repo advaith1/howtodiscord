@@ -14,3 +14,7 @@ After you go to that screen, click on the register button, that's a little bit h
 
 ![Register Button](https://cdn.discordapp.com/attachments/328217116924837889/356439652678500362/image.jpg)
 
+After that, fill in the required information, and then BOOM! Your discord account is ready to go!
+
+
+
