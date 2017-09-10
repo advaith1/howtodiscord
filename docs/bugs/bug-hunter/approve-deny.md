@@ -17,13 +17,15 @@ A common misconception is that you can deny a bug report for a bug in #Denied-Bu
 ### Approving Bug Reports
 Even when approving, it's a good habit to learn to include a simple note like "can reproduce". Here is an example of some good approve and deny reasons:
 
-`!deny 0001 | Cannot Reproduce - MacBook Air 2013 13" [10.12.6 Sierra], Discord Canary [0.0.154]`  
-`!approve 0002 | Can Reproduce - Lenovo ThinkPad [Windows 10 Creators], Discord Canary [0.0.163]`
+`!deny 0001 | Cannot Reproduce on Discord Canary 0.0.154 (Build 3901), macOS Sierra 10.12.6 (16G29) (iMac Retina 5K, 27-inch, Late 2017)`
 
+`!approve 0002 | Can Reproduce - Lenovo ThinkPad [Windows 10 Creators Update], Discord Canary [0.0.163]`
 
-Here's the deny/approval system for bug reports:
+You must include Discord's version number, and it is strongly recommended that you also include your build number. To learn how to find those, click [here](/DiscordApp/docs/bugs/version).
 
-Your operating system | Reports you can reply to
+Here's the deny for CNR system for bug reports:
+
+Your operating system | Reports you can deny for CNR
 -------- | --------
 Windows or macOS | macOS, Windows and Web-App
 Linux | macOS, Windows, Linux and Web-App
@@ -32,7 +34,7 @@ iOS | iOS
 
 If a bug can be reproduced on more then one category (e.g. Can be reproduced on Android and iOS), the bug should be denied then resubmited in #general-bug-reports.
 
-If you are not on the same platform, you can still deny for NAB, intended, duplicate, vague or Electron bug. Only CNR must conform to the above table.
+If you are not on the same platform, you can still deny for NAB, intended, dupe, vague, or Electron bug. Only CNR must conform to the above table.
 
 ## Valid deny reasons
 ### Duplicates (Dupe)
@@ -45,13 +47,14 @@ If you cannot reproduce the bug, and you're on the same platform (ignore device 
 
 If they are more then two builds out from the current build, or one major build away, make sure to get them to update their client and see if they can still reproduce the bug. It may have been patched in a recent update.
 
+
 ### Not a Bug (NAB)
 Not to be confused with intended behaviour, not a bug means that the report... well.. isn't a bug... At least one of the three deny messages should contain a short explanation as to why it's not a bug. Most, if not all, NAB reports are either intended or are feature requests, in which case the user should be sent to Discord Feedback [https://discord.gg/discord-feedback](https://discord.gg/discord-feedback).  
 `!deny 0001 | Not a bug`
 
-### Intended Behaviour
+### Intended Behavior
 If the report is actually designed, intended or meant-to-be, the report can be denied a intended behaviour. At least one of the three deny messages should contain a little reason over why it's intended. Even though intended ≠ NAB, if a report is intended it's NAB. However, some NAB reports may not be intended.  
-`!deny 0001 | Intended behaviour`
+`!deny 0001 | Intended behavior`
 
 ### Vague Report
 If the report is vague or any section of the report is empty or non-descriptive, you may deny the report. At least one of the three deny messages should say which section.  
