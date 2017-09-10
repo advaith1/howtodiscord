@@ -10,7 +10,7 @@ screen as shown here:
 
 ![Going to the login/register screen](https://cdn.discordapp.com/attachments/328217116924837889/356439711977439234/image.jpg)
 
-After you go to that screen, click in the register button, that's a little bit hidden there.
+After you go to that screen, click on the register button, that's a little bit hidden there.
 
 ![Register Button](https://cdn.discordapp.com/attachments/328217116924837889/356439652678500362/image.jpg)
 
