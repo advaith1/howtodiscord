@@ -1,4 +1,6 @@
 # Discord
+<a href="https://cla-assistant.io/ItsPugle/DiscordApp"><img src="https://cla-assistant.io/readme/badge/ItsPugle/DiscordApp" alt="CLA assistant" /></a>
+
 A community-driven, open-source, down-to-earth, documentation book of all things Discord.
 
 Enquiries relating to this specific repository should be adressed in an [Issue](https://github.com/ItsPugle/DiscordApp/issues/new/) or a [Pull Request](https://github.com/ItsPugle/DiscordApp/compare). Please make sure to read the [License](https://github.com/ItsPugle/DiscordApp/blob/master/meta/license) if you make any changes, as they'll be subjected under the same license.
