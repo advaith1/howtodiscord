@@ -6,6 +6,7 @@ Although Discord is developed for everyone, it's not possible to support every e
 - Safari, Internet Explorer, or Edge browsers
 - Any pre-Windows 7 versions
 - Mobile Website
+- Rooted devices
 - Any iPhone 4s' and below
 - Android 4.1 and below
 - Any bug involving text going out of modals because of a long translation
