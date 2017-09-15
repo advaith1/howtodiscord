@@ -2,13 +2,12 @@
 When reporting bugs or approving/CRing them, you must include the build number. We also recommend you provide the version number. For mobile bugs, you must include the version number.
 
 ## Desktop Build
-To find the Build of Discord Canary, follow these steps:  
+To find the Build of Discord, follow these steps:  
 1. Press `Ctrl+Shift+I` (`Command+Shift+I` on macOS)
 2. Click Console
 3. Scroll up to the top.
 4. The third message should say:
-![Console Build Info](https://cdn.discordapp.com/attachments/252296452708106240/356153419561435147/Screen_Shot_2017-09-09_at_12.06.19_PM.png)  
-On a different release channel? For now, just include the build number.
+![Console Build Info](https://cdn.discordapp.com/attachments/252296452708106240/356153419561435147/Screen_Shot_2017-09-09_at_12.06.19_PM.png)
 
 ## Mobile
 For Mobile, open User Settings in Discord and scroll all the way down on the screen that opens. At the bottom, it will say the version number, followed by the build number in parentheses.
