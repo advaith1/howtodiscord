@@ -1,35 +1,40 @@
 # Finding your Version and Build
-When reporting bugs or approving/CRing them, you must include the build number. We also recommend you provide the version number. For mobile bugs, you must include the version number.
+When reporting bugs, or responding to bugs, it's crucial to include information about your Discord. Currently, you're only *required* to include your Version Number (0.0.154 or 4.1.6 etc), however it's *advised* to include your Build Number (4331 etc) in your report to help both Bug Hunters and Staff resolve your issue.
 
-## Desktop Build
-To find the Build of Discord, follow these steps:  
-1. Press `Ctrl+Shift+I` (`Command+Shift+I` on macOS)
-2. Click Console
-3. Scroll up to the top.
-4. The third message should say:
-![Console Build Info](https://cdn.discordapp.com/attachments/252296452708106240/356153419561435147/Screen_Shot_2017-09-09_at_12.06.19_PM.png)
 
-## Mobile
-For Mobile, open User Settings in Discord and scroll all the way down on the screen that opens. At the bottom, it will say the version number, followed by the build number in parentheses.
 
-### Desktop Version
-Even though the version number is not required for desktop, it is recommended. Note that the web client doesn't have a build number.
-#### Windows Client
-To find the version of Discord, enter `%appdata%/discord<version>` in the directory location of a File Explorer window.
+## Desktop Client - Version Number
+For Windows, enter `%appdata%/discord<version>` in the directory bar of a File Explorer window.
 
-For the Public Test Build, go to `%appdata%/discordptb`.  
-For Canary, go to `%appdata%/discordcanary`.  
-For Stable, go to `%appdata%/discord`.  
+Build Version | Folder location
+------------ | -------------
+Stable Build | `%appdata%/discord`
+Public Test Build | `%appdata%/discordptb`
+Canary Build | `%appdata%/discordcanary`
 
-#### macOS Client
+## macOS - Version Number
 For macOS, just click the `Discord <Version>` menu on the menu bar, then click the `About Discord` module:  
 
 <img src="https://cdn.discordapp.com/attachments/252296452708106240/356152267679858688/Screen_Shot_2017-09-09_at_12.01.44_PM.png" alt="About Discord" style="width: 400px;"/>
 <img src="https://cdn.discordapp.com/attachments/252296452708106240/356152439109582848/Screen_Shot_2017-09-09_at_12.02.01_PM.png" alt="About Discord Menu" style="width: 400px;"/>
 
-#### Linux Client
-Open a terminal while Discord is running, and type the package name.
+## Linux  - Version Number
+For Linux, open a terminal whilst Discord is running and enter the package name.
 
-For Stable, `discord`.  
-For PTB, `discord-ptb`.  
-For Canary, `discord-canary`.
+Build Version | Command
+------------ | -------------
+Stable Build | `stable`
+Public Test Build | `discord-ptb`
+Canary Build | `discord-canary`
+
+## Build Number
+To get your Build Number for Discord, you'll need to:
+1. Press `Ctrl-Shift-I` (`Command-Option-I` on macOS).  
+3. Scroll up to the top.
+4. One of the earliest messages should say contain the Build Number.
+![Console Build Info](https://image.prntscr.com/image/aElHTPCQRjWNTUMIP631oQ.png)
+
+## Retrieving your Mobile Version
+To get your Build Number for Discord, you'll need to:
+1. Open your Client Settings.
+2. Scroll to the bottom.
