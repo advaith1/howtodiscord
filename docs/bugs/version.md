@@ -1,8 +1,6 @@
 # Finding your Version and Build
 When reporting bugs, or responding to bugs, it's crucial to include information about your Discord. Currently, you're only *required* to include your Version Number (0.0.154 or 4.1.6 etc), however it's *advised* to include your Build Number (4331 etc) in your report to help both Bug Hunters and Staff resolve your issue.
 
-
-
 ## Desktop Client - Version Number
 For Windows, enter `%appdata%/discord<version>` in the directory bar of a File Explorer window.
 
