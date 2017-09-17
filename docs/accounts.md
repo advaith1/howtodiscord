@@ -19,7 +19,8 @@ without limits! There you go!
 
 # Deleting your account
 First, let get one thing very clear, you currently **can't** delete your account.   
-I you want to "delete" your account, change your personal informatiom like your email/nickname and don't log in for a week,
-this will make your account inactive what counts like deleting it, when you log-in once again, it gets active again.
+If you want to "delete" your account, change your personal information like your email/username and don't log in for a week.
+This will make your account inactive, which counts like deleting it. When you log-in once again, your account becomes active again.
 
 Soon, you will be able to fully delete your account from User Settings.
+As for now, you need to contact support at [support@discordapp.com](mailto:support@discordapp.com).
