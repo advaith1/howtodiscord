@@ -7,4 +7,4 @@ Navigation page for bug-related documentation.
 [Unsupported Enviroments](bugs/unsupported)  
 [FInding your Version and Build Numbers](bugs/version)
 
-[< Return to the home page](/DiscordApp/index)
+[< Return to the home page](/index)
