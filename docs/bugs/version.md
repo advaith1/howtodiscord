@@ -2,14 +2,14 @@
 # Finding your Version and Build
 When reporting bugs, or responding to bugs, it's crucial to include information about your Discord client. For Desktop, you can put either the build number, version number, or both. We recommend you include both, but if you only include one, the build number is preferred.
 
-## Build Number
+## Desktop and Web Build Number
 To get your Build Number for Discord, you'll need to:
 1. Press `Ctrl-Shift-I` (`Command-Option-I` on macOS).  
 2. Scroll up to the top.
 3. One of the earliest messages should say contain the Build Number.
 ![Console Build Info](https://image.prntscr.com/image/aElHTPCQRjWNTUMIP631oQ.png)
 
-## Version Number
+## Desktop Client Version Number
 ### Windows
 For Windows, press Win+R and enter `%appdata%/discord<version>`, and press enter,
 
@@ -35,7 +35,7 @@ Stable | `stable`
 PTB (Public Test Build) | `discord-ptb`
 Canary | `discord-canary`
 
-# Mobile Version and Build
+## Mobile Version and Build
 To get your Build Number for Discord, you'll need to:
 1. Open your User Settings.
 2. Scroll to the bottom if you have a small screen.
