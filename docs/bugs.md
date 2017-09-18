@@ -1,4 +1,4 @@
-# Bug Documents
+# Bug Reporting Documentation
 Navigation page for bug-related documentation.
 
 [Bug Hunter Specific Documents](bugs/bug-hunter)  

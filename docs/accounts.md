@@ -1,12 +1,10 @@
-# Introduction
-To start using **Discord** you need a *Discord* account, like in any other platform, you could get a account on the official
-Discord site, I guess your here to check some stuff out or you have a serious problem, whatever it is, don't worry, I got
-your back!
+# Discord Accounts
+To start using Discord you'll need a Discord account. Funny how they works. Discord accounts are the accounts used by users to send and receive messages, upload files to Discords CDN, or participate in servers or calls.
 
-# Getting an acccount
-Before you start using, you need to make a Discord account, which you can get on the official Discord site here: 
-[Official Discord Site](https://www.discordapp.com). To get a wonderful account, go to the login button in the top of the 
-screen as shown here: 
+## Getting an acccount
+Before you start using, you need to make a Discord account, which you can get on the official Discord site here:
+[Official Discord Site](https://www.discordapp.com). To get a wonderful account, go to the login button in the top of the
+screen as shown here:
 
 ![Going to the login/register screen](https://cdn.discordapp.com/attachments/328217116924837889/356439711977439234/image.jpg)
 
@@ -17,10 +15,9 @@ After you go to that screen, click on the register button, that's a little bit h
 After that, fill in the required information, and then BOOM! Your Discord account is ready to go! Go on and chat with friends
 without limits! There you go!
 
-# Deleting your account
-First, let get one thing very clear, you currently **can't** delete your account.   
-If you want to "delete" your account, change your personal information like your email/username and don't log in for a week.
-This will make your account inactive, which counts like deleting it. When you log-in once again, your account becomes active again.
+## Deleting your account
+Currently, you can't manually delete your account, however if you want to deactivate your account, you can change your personal information such as your email and username to something wacky and not login for a week.  
+This will make your account inactive, which effectively counts like deleting it. When you log-in once again, your account becomes active again.
 
-Soon, you will be able to fully delete your account from User Settings.
-As for now, you need to contact support at [support@discordapp.com](mailto:support@discordapp.com).
+In an upcoming release, you will be able to fully delete your account from User Settings.  
+If for whatever reason you need your account to be fully deleted, you';; need to contact support through [e-mail](mailto:support@discordapp.com) or through the [Support Portal](https://support.discordapp.com).

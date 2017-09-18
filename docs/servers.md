@@ -1,5 +1,5 @@
 # Discord Invite Links
-Complaints/Questions about any official servers should be forwarded to [Discord Support](mailto:support@discordapp.com) or **Dabbit Prime#0896**.
+Complaints/Questions about any official servers should be forwarded to [Discord Support](mailto:support@discordapp.com).
 
 ## A public list of all public official Discord Guilds/Servers
 Not all Official Servers/Guilds are included in this list - HypeSquad, Partners and Discord Staff are examples. You need to be in the relevant programs/positions for invites to these servers.
@@ -18,6 +18,7 @@ A lot of these Servers/Guilds aren't advertised publicly, so I may be missing qu
 
 Server/Guild Name | Invite URL
 ------------ | -------------
+ItsPugle/DiscordApp | [https://discord.gg/zXUJb9b](https://discord.gg/zXUJb9b)
 Jake | [https://discord.gg/jake](https://discord.gg/jake)
 b1nzy | [https://discord.gg/b1nzy](https://discord.gg/b1nzy)
 Rowboat (Bot by b1nzy) | [https://discord.gg/rowboat](https://discord.gg/rowboat)
