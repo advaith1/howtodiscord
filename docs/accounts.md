@@ -20,3 +20,6 @@ Currently, you can't manually delete your account, however if you want to deacti
 This will make your account inactive, which effectively counts like deleting it. When you log-in once again, your account becomes active again.
 
 If you're on the Canary client, you are able to delete your account by pressing the 'Delete account' button in your user settings page.
+
+##
+[< Return to the home page](/index)

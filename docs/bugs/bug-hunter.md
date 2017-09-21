@@ -5,5 +5,5 @@ Navigation page for Bug Hunter specific documentation.
 [Bug Hunter Specific Commands](bug-hunter/commands)  
 [Unsupported Enviromens](unsupported)
 
-[< Return to the bug documents navigation](/DiscordApp/bugs)
-[< Return to the home page](/DiscordApp/index)
+[< Return to the bug documents navigation](/bugs)
+[< Return to the home page](/index)

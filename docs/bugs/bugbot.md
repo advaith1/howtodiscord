@@ -20,3 +20,7 @@ Command | Description
 !revoke | Revoke an approval or deny of a ticket - You can reuse !approve or !deny to override existing stance
 !attach | Attach media to a file
 !addnote and !note | Add a note to an approved Bug Report
+
+##
+[< Return to the bug documents navigation](/bugs)
+[< Return to the home page](/index)

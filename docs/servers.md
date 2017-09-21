@@ -25,3 +25,6 @@ Rowboat (Bot by b1nzy) | [https://discord.gg/rowboat](https://discord.gg/rowboat
 Discord API | [https://discord.gg/discord-api](https://discord.gg/discord-api)
 Discord Linux | [https://discord.gg/discord-linux](https://discord.gg/discord-linux)
 Discord Bots | [https://discord.gg/0cDvIgU2voWn4BaD](https://discord.gg/0cDvIgU2voWn4BaD)
+
+##
+[< Return to the home page](/index)

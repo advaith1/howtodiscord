@@ -42,3 +42,7 @@ Just generally, don't be a dick and you'll be golden.
 - [macOS Canary Download](https://discordapp.com/api/download/canary?platform=osx)
 - [Linux Canary Download](https://discordapp.com/api/download/canary?platform=linux)
 - [Testflight and Android Alpha Registration](https://dabbit.typeform.com/to/ycZl9m) - Android Alpha must register with a Google Play email.
+
+##
+[< Return to the bug documents navigation](/bugs)
+[< Return to the home page](/index)
