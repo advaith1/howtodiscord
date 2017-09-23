@@ -1,4 +1,7 @@
 # Approving and denying tickets
+[< Return to the home](/index)  
+[< Return to the Bug Hunter navigation](/bugs/bug-hunters)
+
 As a Bug Hunter™ you have the ~~holy~~ respectful ability to approve and deny incoming reports in #Bug-Approval-Queue. All bugs **must** come through here, meaning that if you approve or deny a bug wrongly, there's no way to fix it once it's passed.
 
 ⚠️ If you have any questions, or unsure, it's best to **not** approve or deny a bug, and let it be until you decide. If you honestly can't decide, you may want to consult with a Trello Moderator or other Bug Hunters. ⚠️
@@ -68,6 +71,3 @@ A list of all registered Electron bugs can be found [here](https://github.com/el
 ### Lazy Loading
 Discord employs a system called "Lazy Loading" to make sure that imediately required content is fetched first, and then content is fetched as it's needed. If a bug is the result of Lazy Loading, deny it as follows. At least one deny should explain why it's a result of Lazy Loading.  
 `!deny 0001 | Lazy Loading - Reason
-[< Return to the bug documents navigation](/bugs/bug-hunter)
-[< Return to the home page]({{ '/' | absolute_url }})
-

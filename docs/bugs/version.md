@@ -1,5 +1,5 @@
 # Finding your Version and Build
-[< Return to the home](/index)
+[< Return to the home](/index)  
 [< Return to the bugs navigation](/bugs)
 
 When reporting bugs, or responding to bugs, it's crucial to include information about your Discord client. For Desktop, you can put either the build number, version number, or both. We recommend you include both, but if you only include one, the build number is preferred.

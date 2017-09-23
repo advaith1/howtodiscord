@@ -1,4 +1,7 @@
 # Bug Hunter Commands
+[< Return to the home](/index)  
+[< Return to the Bug Hunter navigation](/bugs/bug-hunters)
+
 As a Bug Hunter™ you are awarded an elevated permissions level, which grants you access to several Bug Hunter only commands.  Whilst these commands aren't going to end the world if you misuse them, it's important to double-check your command before you press enter.
 
 ## Ticket Management
@@ -20,6 +23,3 @@ Used to attach media, such as images and videos, to tickets in the #Bug-Approval
 ### Note
 Used to add a note to approved reports (does not work with #Bug-Approval-Queue). It's important to use this command sparingly, as it can easily clog up report tickets.  
 `!note <trello url> | <note>`
-
-[< Return to the bug documents navigation](/bugs/bug-hunter)
-[< Return to the home page]({{ '/' | absolute_url }})

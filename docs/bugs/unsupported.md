@@ -1,5 +1,5 @@
 # Unsupported Environments
-[< Return to the home](/index)
+[< Return to the home](/index)  
 [< Return to the bugs navigation](/bugs)
 
 Although Discord is developed for everyone, it's not possible to support every environment, hence, why some environments aren't supported. Such bug reports should be denied with reason. Although some bugs are because of an unsupported environment, bugs that also occur on supported environments are to be approved.

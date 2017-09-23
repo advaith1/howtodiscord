@@ -1,10 +1,12 @@
 # iOS 11 Image Upload bug
+[< Return to the home](/index)  
+[< Return to the known bugs navigation](/bugs/known)
 
-The bug uploading images on certain new devices running iOS 11 have been fixed, but only on stable 1.9.1, NOT testflight 1.9.1.
+The bug uploading images on certain new devices running iOS 11 have been fixed, but only on stable 1.9.1, **not** testflight 1.9.1.
 
 (Images upload as `unknown`)
 
-If you have TestFlight, you must download the latest version from the **App Store.**
+If you have TestFlight, you must download the latest version from the **App Store**.
 
 ![proof](http://puu.sh/xGBOJ.png)
 

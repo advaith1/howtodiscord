@@ -1,5 +1,5 @@
 # Reporting Discord Bugs
-[< Return to the home](/index)
+[< Return to the home](/index)  
 [< Return to the bugs navigation](/bugs)
 
 As with all software, Discord can sometimes have some :bug:-s in it. Sometimes you may feel the urge to scream at someone about such :bug:-s. Thankfully, we've got a solution that won't render you unable to speak for 3 days!  

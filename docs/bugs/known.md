@@ -1,5 +1,5 @@
 # Major Known Bugs
-[< Return to the home](/index)
+[< Return to the home](/index)  
 [< Return to the bugs navigation](/bugs)
 
 These are some major known bugs with Discord.
