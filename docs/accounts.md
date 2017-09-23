@@ -16,9 +16,9 @@ After that, fill in the required information, and then BOOM! Your Discord accoun
 without limits! There you go!
 
 ## Deleting your account
-Currently, you can't manually delete your account, however if you want to deactivate your account, you can change your personal information such as your email and username to something wacky and not login for a week.  
-This will make your account inactive, which effectively counts like deleting it. When you log-in once again, your account becomes active again.
+If you're running the Canary client, you are able to delete your account by pressing the 'Delete Account' button in the User Settings menu. Otherwise, you'll need to [send an email to Discord Support](mailto:support@discordapp.com?subject=Account%20Deletion%20Request)
 
-If you're on the Canary client, you are able to delete your account by pressing the 'Delete account' button in your user settings page.
+![Delete Account Button](https://screenshots.should-be.legal/823c03.png)
 
-[< Return to the home page]({{ '/' | absolute_url }})
+
+[< Return to the home page](/index)
