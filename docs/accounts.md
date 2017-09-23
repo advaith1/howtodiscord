@@ -20,5 +20,4 @@ If you're running the Canary client, you are able to delete your account by pres
 
 ![Delete Account Button](https://screenshots.should-be.legal/823c03.png)
 
-
 [< Return to the home page](/index)
