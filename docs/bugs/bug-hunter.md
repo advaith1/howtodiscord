@@ -6,4 +6,4 @@ Navigation page for Bug Hunter specific documentation.
 
 [Approval and Denial Guide](bug-hunter/approve-deny)  
 [Bug Hunter Specific Commands](bug-hunter/commands)  
-[Unsupported Enviroments](unsupported)
+[Unsupported environments](unsupported)
