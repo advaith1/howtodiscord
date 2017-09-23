@@ -21,6 +21,5 @@ Command | Description
 !attach | Attach media to a file
 !addnote and !note | Add a note to an approved Bug Report
 
-##
 [< Return to the bug documents navigation](/bugs)
-[< Return to the home page](/index)
+[< Return to the home page]({{ '/' | absolute_url }})

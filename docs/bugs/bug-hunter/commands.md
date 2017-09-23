@@ -21,6 +21,5 @@ Used to attach media, such as images and videos, to tickets in the #Bug-Approval
 Used to add a note to approved reports (does not work with #Bug-Approval-Queue). It's important to use this command sparingly, as it can easily clog up report tickets.  
 `!note <trello url> | <note>`
 
-##
 [< Return to the bug documents navigation](/bugs/bug-hunter)
-[< Return to the home page](/index)
+[< Return to the home page]({{ '/' | absolute_url }})

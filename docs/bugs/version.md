@@ -41,6 +41,5 @@ To get your Build Number for Discord, you'll need to:
 2. Scroll to the bottom if you have a small screen.
 3. It should say the version number in the bottom right, with the build number in parantheses. Example: 1.2.3 (135)
 
-##
 [< Return to the bug documents navigation](/bugs)
-[< Return to the home page](/index)
+[< Return to the home page]({{ '/' | absolute_url }})

@@ -6,4 +6,4 @@ Navigation page for Bug Hunter specific documentation.
 [Unsupported Enviromens](unsupported)
 
 [< Return to the bug documents navigation](/bugs)
-[< Return to the home page](/index)
+[< Return to the home page]({{ '/' | absolute_url }})

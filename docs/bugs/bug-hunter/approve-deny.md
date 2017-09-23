@@ -67,8 +67,7 @@ A list of all registered Electron bugs can be found [here](https://github.com/el
 
 ### Lazy Loading
 Discord employs a system called "Lazy Loading" to make sure that imediately required content is fetched first, and then content is fetched as it's needed. If a bug is the result of Lazy Loading, deny it as follows. At least one deny should explain why it's a result of Lazy Loading.  
-`!deny 0001 | Lazy Loading - Reason`
-
-##
+`!deny 0001 | Lazy Loading - Reason
 [< Return to the bug documents navigation](/bugs/bug-hunter)
-[< Return to the home page](/index)
+[< Return to the home page]({{ '/' | absolute_url }})
+

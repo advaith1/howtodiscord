@@ -21,5 +21,4 @@ This will make your account inactive, which effectively counts like deleting it.
 
 If you're on the Canary client, you are able to delete your account by pressing the 'Delete account' button in your user settings page.
 
-##
-[< Return to the home page](/index)
+[< Return to the home page]({{ '/' | absolute_url }})

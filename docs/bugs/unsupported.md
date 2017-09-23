@@ -17,6 +17,5 @@ Although Discord is developed for everyone, it's not possible to support every e
 - macOS versions lower than 10.10
 - Any pre-release/beta/etc version of any OS (Example: iOS 11 Beta). However, P1 and P0 (crashes and major bugs) can be reported even if they only occur on beta OSes.
 
-
 [< Return to the bug documents navigation](/bugs)  
 [< Return to the home page]({{ '/' | absolute_url }})

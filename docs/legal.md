@@ -6,4 +6,4 @@ Navigation page for legal documentation.
 [Branding Guidelines](legal/branding)  
 [Developer ToS](legal/developers)
 
-[< Return to the home page](/index)
+[< Return to the home page]({{ '/' | absolute_url }})

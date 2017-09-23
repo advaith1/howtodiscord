@@ -26,5 +26,4 @@ Discord API | [https://discord.gg/discord-api](https://discord.gg/discord-api)
 Discord Linux | [https://discord.gg/discord-linux](https://discord.gg/discord-linux)
 Discord Bots | [https://discord.gg/0cDvIgU2voWn4BaD](https://discord.gg/0cDvIgU2voWn4BaD)
 
-##
-[< Return to the home page](/index)
+[< Return to the home page]({{ '/' | absolute_url }})
