@@ -19,6 +19,8 @@ without limits! There you go!
 Currently, you can't manually delete your account, however if you want to deactivate your account, you can change your personal information such as your email and username to something wacky and not login for a week.  
 This will make your account inactive, which effectively counts like deleting it. When you log-in once again, your account becomes active again.
 
-If you're on the Canary client, you are able to delete your account by pressing the 'Delete account' button in your user settings page.
+If you're on the Canary client, you are able to delete your account by pressing the 'Delete Account' button in the User Settings menu.
+
+![Delete Account Button](https://cdn.discordapp.com/attachments/361037872024911873/361044748074614784/d7b6411.png)
 
 [< Return to the home page]({{ '/' | absolute_url }})
