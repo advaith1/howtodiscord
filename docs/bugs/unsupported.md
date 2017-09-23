@@ -1,4 +1,7 @@
 # Unsupported Environments
+[< Return to the home](/index)
+[< Return to the bugs navigation](/bugs)
+
 Although Discord is developed for everyone, it's not possible to support every environment, hence, why some environments aren't supported. Such bug reports should be denied with reason. Although some bugs are because of an unsupported environment, bugs that also occur on supported environments are to be approved.
 
 ## Unsupported Enviroments
@@ -16,6 +19,3 @@ Although Discord is developed for everyone, it's not possible to support every e
 - Amazon Fire Tablets
 - macOS versions lower than 10.10
 - Any pre-release/beta/etc version of any OS (Example: iOS 11 Beta). However, P1 and P0 (crashes and major bugs) can be reported even if they only occur on beta OSes.
-
-[< Return to the bug documents navigation](/bugs)  
-[< Return to the home page]({{ '/' | absolute_url }})

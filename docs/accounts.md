@@ -2,6 +2,8 @@
 To start using Discord you'll need a Discord account. Funny how they works. Discord accounts are the accounts used by users to send and receive messages, upload files to Discords CDN, or participate in servers or calls.
 
 ## Getting an acccount
+[< Return to the home](/index)
+
 Before you start using, you need to make a Discord account, which you can get on the official Discord site here:
 [Official Discord Site](https://www.discordapp.com). To get a wonderful account, go to the login button in the top of the
 screen as shown here:
@@ -19,5 +21,3 @@ without limits! There you go!
 If you're running the Canary client, you are able to delete your account by pressing the 'Delete Account' button in the User Settings menu. Otherwise, you'll need to [send an email to Discord Support](mailto:support@discordapp.com?subject=Account%20Deletion%20Request)
 
 ![Delete Account Button](https://screenshots.should-be.legal/823c03.png)
-
-[< Return to the home page](/index)

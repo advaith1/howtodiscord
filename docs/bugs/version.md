@@ -1,5 +1,7 @@
-
 # Finding your Version and Build
+[< Return to the home](/index)
+[< Return to the bugs navigation](/bugs)
+
 When reporting bugs, or responding to bugs, it's crucial to include information about your Discord client. For Desktop, you can put either the build number, version number, or both. We recommend you include both, but if you only include one, the build number is preferred.
 
 ## Desktop and Web Build Number
@@ -40,6 +42,3 @@ To get your Build Number for Discord, you'll need to:
 1. Open your User Settings.
 2. Scroll to the bottom if you have a small screen.
 3. It should say the version number in the bottom right, with the build number in parantheses. Example: 1.2.3 (135)
-
-[< Return to the bug documents navigation](/bugs)
-[< Return to the home page]({{ '/' | absolute_url }})

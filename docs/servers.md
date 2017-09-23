@@ -1,4 +1,6 @@
 # Discord Invite Links
+[< Return to the home](/index)
+
 Complaints/Questions about any official servers should be forwarded to [Discord Support](mailto:support@discordapp.com).
 
 ## A public list of all public official Discord Guilds/Servers
@@ -25,5 +27,3 @@ Rowboat (Bot by b1nzy) | [https://discord.gg/rowboat](https://discord.gg/rowboat
 Discord API | [https://discord.gg/discord-api](https://discord.gg/discord-api)
 Discord Linux | [https://discord.gg/discord-linux](https://discord.gg/discord-linux)
 Discord Bots | [https://discord.gg/0cDvIgU2voWn4BaD](https://discord.gg/0cDvIgU2voWn4BaD)
-
-[< Return to the home page]({{ '/' | absolute_url }})

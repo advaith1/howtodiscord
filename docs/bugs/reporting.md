@@ -1,4 +1,7 @@
 # Reporting Discord Bugs
+[< Return to the home](/index)
+[< Return to the bugs navigation](/bugs)
+
 As with all software, Discord can sometimes have some :bug:-s in it. Sometimes you may feel the urge to scream at someone about such :bug:-s. Thankfully, we've got a solution that won't render you unable to speak for 3 days!  
 Introducing: **Discord Testers** - The next in high-quality bug reporting.
 
@@ -42,6 +45,3 @@ Just generally, don't be a dick and you'll be golden.
 - [macOS Canary Download](https://discordapp.com/api/download/canary?platform=osx)
 - [Linux Canary Download](https://discordapp.com/api/download/canary?platform=linux)
 - [Testflight and Android Alpha Registration](https://dabbit.typeform.com/to/ycZl9m) - Android Alpha must register with a Google Play email.
-
-[< Return to the bug documents navigation](/bugs)
-[< Return to the home page]({{ '/' | absolute_url }})

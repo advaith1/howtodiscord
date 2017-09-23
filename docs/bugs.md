@@ -1,4 +1,6 @@
 # Bug Reporting Documentation
+[< Return to the home](/index)
+
 Navigation page for bug-related documentation.
 
 [Bug Hunter Specific Documents](bugs/bug-hunter)  
@@ -7,5 +9,3 @@ Navigation page for bug-related documentation.
 [Unsupported Enviroments](bugs/unsupported)  
 [Finding your Version and Build Numbers](bugs/version)  
 [Major Known Bugs](bugs/known)
-
-[< Return to the home page]({{ '/' | absolute_url }})
