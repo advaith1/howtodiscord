@@ -6,5 +6,6 @@ Navigation page for bug-related documentation.
 [Bug Reporting Instructions](bugs/reporting)  
 [Unsupported Enviroments](bugs/unsupported)  
 [Finding your Version and Build Numbers](bugs/version)
+[Major Known Bugs](bugs/known)
 
 [< Return to the home page]({{ '/' | absolute_url }})
