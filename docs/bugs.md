@@ -3,7 +3,7 @@
 
 Navigation page for bug-related documentation.
 
-[Bug Hunter Specific Documents](bugs/bug-hunter)  
+[Bug Hunter Specific Documents](bugs/bug-hunters)  
 [Bug-Bot Instructions](bugs/bugbot)  
 [Bug Reporting Instructions](bugs/reporting)  
 [Unsupported Enviroments](bugs/unsupported)  
