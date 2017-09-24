@@ -1,4 +1,4 @@
-# Approving and denying tickets
+# Approving and Denying Tickets
 [< Return to the home](/index)  
 [< Return to the Bug Hunter navigation](/bugs/bug-hunters)
 
