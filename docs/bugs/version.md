@@ -33,7 +33,7 @@ For Linux, open a terminal whilst Discord is running and enter the package name.
 
 Release Channel | Command
 ------------ | -------------
-Stable | `stable`
+Stable | `discord`
 PTB (Public Test Build) | `discord-ptb`
 Canary | `discord-canary`
 
