@@ -2,7 +2,7 @@
 [< Return to the home](/index)  
 [< Return to the bugs navigation](/bugs)
 
-Although Discord is developed for everyone, it's not possible to support every environment, hence, why some environments aren't supported. Such bug reports should be denied with reason. Although some bugs are because of an unsupported environment, bugs that also occur on supported environments are to be approved.
+Although Discord is developed for everyone, it's not possible to support every environment, hence, why some environments aren't supported. Such bug reports should be denied with reason. Although some bugs are because of an unsupported environment, bugs that also occur on supported environments are to be approved. The content on this page is thanks to **Dabbit Prime**, our Community Manager for Discord Testers and Quality Assurance Lead at Discord.
 
 ## Unsupported Enviroments
 - Any client modifications (BeautifulDiscord, betterDiscord, etc.)
