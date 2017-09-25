@@ -16,4 +16,4 @@ A section of the charter, titled 'Behavior in Chat', goes over many of the guide
 5. Don't talk about unreleased features.
 
 You are able to access the full version of the charter by becoming an initiate.
-You can read more about becoming an initiate by clicking [here](bugs/bug-hunters/about).
+You can read more about becoming an initiate by clicking [here](about).

@@ -13,7 +13,7 @@ Used to signify acceptance of a bug report in the #Bug-Approval-Queue. Three app
 Used to signify rejection of a bug report in the #Bug-Approval-Queue. Three rejections are required for the report to be dismissed and moved to #Denied-Bugs.  
 `!deny <ticket #> | <deny reason>`  
 
-Please read [this article](bugs/bug-hunters/approve-deny) for more information before denying any bug reports.
+Please read [this article](approve-deny) for more information before denying any bug reports.
 
 ## Ticket Support
 ### Attach
