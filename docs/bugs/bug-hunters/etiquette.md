@@ -15,5 +15,7 @@ A section of the charter, titled 'Behavior in Chat', goes over many of the guide
 4. Don't bring drama from other servers into DTesters.
 5. Don't talk about unreleased features.
 
+The Charter was originally written by Dabbit Prime.
+
 You are able to access the full version of the charter by becoming an initiate.
 You can read more about becoming an initiate by clicking [here](about).
