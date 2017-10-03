@@ -1,5 +1,6 @@
 # Discord
-<a href="https://cla-assistant.io/ItsPugle/DiscordApp"><img src="https://cla-assistant.io/readme/badge/ItsPugle/DiscordApp" alt="CLA assistant" /></a>
+<a href="https://cla-assistant.io/ItsPugle/DiscordApp"><img src="https://cla-assistant.io/readme/badge/ItsPugle/DiscordApp" alt="CLA assistant" /></a> 
+[![Waffle.io - Issues in progress](https://badge.waffle.io/ItsPugle/DiscordApp.svg?label=in%20progress&title=In%20Progress)](http://waffle.io/ItsPugle/DiscordApp)
 
 A community-driven, open-source, down-to-earth, documentation book of all things Discord.
 
