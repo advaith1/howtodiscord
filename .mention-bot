@@ -1,5 +1,5 @@
 {
-  "maxReviewers": 3, // Maximum  number of people to ping in the PR message, default is 3
+  "maxReviewers": 5, // Maximum  number of people to ping in the PR message, default is 3
   "numFilesToCheck": 10, // Number of files to check against, default is 5
   "message": "Hey @pullRequester, thanks for submitting a Pull Request! @reviewers, might want to  review this.",
              // custom message using @pullRequester and @reviewers
