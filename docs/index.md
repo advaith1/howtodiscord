@@ -3,7 +3,7 @@
 
 ## Topics
 :file_folder: [Bugs](bugs)  
-:file_folder: [Legal](legal)
+:file_folder: [Discord Legal Info](legal)
 
 :page_facing_up: [Notable Discord Servers](servers)  
 :page_facing_up: [Accounts](accounts)
