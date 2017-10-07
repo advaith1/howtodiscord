@@ -6,9 +6,10 @@ When reporting bugs, or responding to bugs, it's crucial to include information 
 
 ## Desktop and Web Build Number
 To get your Build Number for Discord, you'll need to:
-1. Press `Ctrl-Shift-I` (`Command-Option-I` on macOS).  
-2. Scroll up to the top.
-3. One of the earliest messages should say contain the Build Number.
+1. Press `Ctrl-Shift-I` (`Command-Option-I` on macOS).
+2. Click Console in the top bar.
+3. Scroll up to the top.
+4. One of the earliest messages should say contain the Build Number. (Look for [BUILD INFO])
 ![Console Build Info](https://image.prntscr.com/image/aElHTPCQRjWNTUMIP631oQ.png)
 
 ## Desktop Client Version Number
