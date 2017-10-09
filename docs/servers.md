@@ -16,7 +16,6 @@ Discord Gamenight | [https://discord.gg/gamenight](https://discord.gg/gamenight)
 
 ### Notable Servers
 Several staff have opened their own servers, and the community hosts a range of other servers.  
-A lot of these Servers/Guilds aren't advertised publicly, so I may be missing quite a few servers. Please [open an issue](https://github.com/ItsPugle/DiscordApp/issues/new) if you've got other servers that the owner has approved to being public (make sure to mention @ItsPugle).
 
 Server/Guild Name | Invite URL
 ------------ | -------------
@@ -27,3 +26,5 @@ Rowboat (Bot by b1nzy) | [https://discord.gg/rowboat](https://discord.gg/rowboat
 Discord API | [https://discord.gg/discord-api](https://discord.gg/discord-api)
 Discord Linux | [https://discord.gg/discord-linux](https://discord.gg/discord-linux)
 Discord Bots | [https://discord.gg/0cDvIgU2voWn4BaD](https://discord.gg/0cDvIgU2voWn4BaD)
+
+If you think we missed a server, please [open an issue](https://github.com/ItsPugle/DiscordApp/issues/new) and request a server that the owner has approved to being public (make sure to mention @ItsPugle).
