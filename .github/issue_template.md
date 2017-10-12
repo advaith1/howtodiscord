@@ -1,14 +1,20 @@
 <!---
 Thanks for looking to help our project! 
-Please populate the following sections to assist with reviewing your commits 
+If you're reporting an issue with the site please use the following template, otherwise delete everything in here and write your message.
 This text won't show on the issue.
 --->
 
-<!-- Description; A concise sentence describing what you're fixing -->
-**Description**:
+<!-- Short Description; A concise sentence describing the issue -->
+**Short Description**:
 
-<!-- Replace {Issue Number} with the number of any related issues. This will close them when this is merged. -->
-Fixes #{Issue Number}
+<!-- Steps to Reproduce; Short, precise steps on how to reproduce this bug -->
+**Steps to Reproduce**:
+1.
+2.
+3.
+
+<!-- Browser Settings; Details about your Internet Browser -->
+**Browser Settings**:
 
 <!-- Add any additional comments below the header -->
 **Additional Comments**:  
@@ -16,13 +22,19 @@ Fixes #{Issue Number}
 <!---
 For the following criteria, put an x in between the square-brackets if you've done what they've said.
 --->
-**Pre-request checks**:
-- [ ] I've written in British English.
-- [ ] I've opened an issue about this if this is a major pull request.
-- [ ] I've ran this code on my own forks GitHub Pages page and it parses correctly.
-- [ ] I've followed the informal format guidelines
+**Pre-report checks**:
+- [ ] I've tried in incognito mode, or another device.
+    - [ ] This issue still happens
+    - [ ] This issue doesn't happen anymore
+- [ ] I've checked the URL for any spelling mistakes
+    - [ ] This issue still happens
+    - [ ] This issue doesn't happen anymore
+    - [ ] I've been following navigation links (please include the path in Additional Comments)
+        - [ ] This issue still happens
+        - [ ] This issue doesn't happen anymore
+- [ ] I've checked all other open issues and pull requests, and none mention this.
         
 <!---
-Once you've filled this out, press 'Create pull requests' and one of the project maintainers will review it within 24 hours. 
+Once you've filled this out, press 'Submit new issue' and one of the project maintainers will review it within 24 hours. 
 Thanks!
 --->

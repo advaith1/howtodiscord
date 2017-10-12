@@ -13,5 +13,10 @@ Ironically, we also have a community Discord to discuss! Check us out @ [discord
 ## About Discord
 Discord is a 21st Century communication platform, based around everyones favourite experience - games. Designed and made by a small but effective team in San Francisco, California, Discord has connected over 45 million users and built communities from subreddits, YouTube Channels and Twitch Streamers. Started by Jason Citron in 2015, Discord's grown to be a leader in communication technology.
 
+## The Project Team
+This project is completely run from the blood and sweat of our team. Currently consisting of ItsPugle (maintainer and owner), Advaith (maintainer) and [many others](https://github.com/ItsPugle/DiscordApp/graphs/contributors).
+
 ## Disclosure
-This repository, as of September 4th, 2017, is in no way, shape or form endorsed, supported, funded or related to Discord Inc. or Hammer and Chisel Inc.  
+This repository, as of September 4th, 2017, is in no way, shape or form endorsed, supported, funded or related to Discord Inc. Any information, instructions or otherwise advice provided by this project and any website/articles under `howtodiscord.tk` are the property of ItsPugle and do not superceed any information, instructions or otherwise advice provided by Discord Inc. or it's representatives. 
+
+You should contact ItsPugle privately through Discord before taking any action against this repository, and attempt to make an agreement prior to any legal action. 
